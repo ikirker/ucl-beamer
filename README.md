@@ -51,9 +51,6 @@ updmap-sys --enable Map=ua1.map
 \renewcommand{\familydefault}{\sfdefault}
 ```
 
-If you're wondering how to tell them apart, the only difference I could
-discern was that Arial doesn't have the downstroke on the G.
-
 
 Support
 -------
